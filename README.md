@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CYFan-53
+- 👋 Hi, I’m @CuiYifan
 - 👀 I’m interested in Model Quantization
 - 🌱 I’m currently learning Model Quantization
 - 💞️ I’m looking to collaborate on ...
